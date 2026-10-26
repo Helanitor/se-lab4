@@ -1,0 +1,3 @@
+# Test: Primary store fails, secondary store must not be tried
+GT4500,1,1,1,0
+TORPEDO,SINGLE

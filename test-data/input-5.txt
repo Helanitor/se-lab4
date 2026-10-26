@@ -1,0 +1,6 @@
+# Test: Secondary store is empty, fall back to primary store
+GT4500,3,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
